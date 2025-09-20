@@ -1,0 +1,6 @@
+streamlit
+requests
+ibm-watson
+ibm-cloud-sdk-core
+python-dotenv
+pydub
